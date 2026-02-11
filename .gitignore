@@ -35,5 +35,7 @@ bin/*.zip
 
 # Secrets
 .env
-.env.*
-!.env.example
+app/bin/ffmpeg.exe
+node_modules/
+dist/
+release/
