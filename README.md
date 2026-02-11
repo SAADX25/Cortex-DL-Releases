@@ -22,7 +22,7 @@
 * **Build Tool:** Electron Builder 
   
 ## 📥 Download 
-You can download the latest version for Windows from the [Releases Page](https://github.com/SAADX25/Cortex-DNA-Releases/releases). 
+You can download the latest version for Windows from the [Releases Page]([https://github.com/SAADX25/Cortex-DNA-Releases/releases](https://github.com/SAADX25/Cortex-DL-Releases/releases)). 
   
 --- 
 *Developed with ❤️ by SAADX25*
